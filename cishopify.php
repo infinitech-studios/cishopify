@@ -1,5 +1,6 @@
-<?php
-// Set these values (Maybe move this to a config file)
+<?php if (!defined('BASEPATH')) exit('No direct script access allowed');
+
+// Set these values before you start!
 define('SHOPIFY_API_KEY', '');
 define('SHOPIFY_API_SECRET', '');
 define('SHOP_URL','');
