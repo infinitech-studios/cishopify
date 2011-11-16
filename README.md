@@ -1,6 +1,6 @@
 This is a Codeigniter wrapper around the Shopify PHP API
 
-This is till a work in progress, and is FAR from complete!
+**This is till a work in progress, and is FAR from complete! DO NOT USE THIS TILL IT'S DONE!**
 
 # Usage
 
@@ -25,3 +25,7 @@ This is till a work in progress, and is FAR from complete!
 # Reference
 
 Coming soon...
+
+# Dependencies
+
+This uses the [official shopify PHP API](https://github.com/Shopify/shopify_php_api)
